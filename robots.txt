@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://utimliden.github.io/sitemap.html.gz
+Sitemap: https://utimliden.github.io/app/sitemap.html.gz
+Sitemap: https://utimliden.github.io/assets/sitemap.html.gz
+Sitemap: https://utimliden.github.io/css/sitemap.html.gz
+Sitemap: https://utimliden.github.io/includes/sitemap.html.gz
+Sitemap: https://utimliden.github.io/item/sitemap.html.gz
+Sitemap: https://utimliden.github.io/src/sitemap.html.gz
